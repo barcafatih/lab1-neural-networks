@@ -1,0 +1,650 @@
+Hey, Vsauce. Michael here.
+
+Down here.
+
+But which way is down?
+
+And how much does down weigh? Well, down weighs about a 100th of a gram per cubic centimeter.
+
+It is light and airy, which makes it a great source of insulation and buoyancy for water birds.
+
+But if you let go of down...
+
+It falls down.
+
+So that's which way down is.
+
+It's the direction gravity is pulling everything in.
+
+Now, for someone on the other side of the Earth, my down is their up.
+
+But where are falling things going? Why do things fall?
+
+Are they being pushed, or pulled, or is it because of time travel?
+
+First things first: let's turn the Sun into a black hole.
+
+We can do that using Universe Sandbox 2, this simulator will blow your mind. I love it.
+
+In fact, I love it so much I put a code to get the game for free in the current Curiosity Box.
+
+If you're not subscribed to the box yet, you are missing out!
+
+Okay, look, for the purposes of this video, we want the Solar System.
+
+And here it is. Notice that everything's moving pretty quickly around the Sun.
+
+That's because we currently have the game set so that every second that passes for us,
+
+is 14 days, almost, in the game.
+
+If I change this to one second,
+
+we're looking at the Solar System in real time.
+
+You'll notice that it almost looks like it's frozen.
+
+Even though the earth is traveling around the Sun at about 30 km/s, it barely appears to be moving.
+
+That is how vast space is. Anyway, let's go back to 14 days
+
+I like that motion. Now look at the Sun
+
+It is not, currently, a black hole, but we can change that. What we need to do is compress the Sun.
+
+So let's lock its mass so that it doesn't change while we make its radius smaller.
+
+Let's make its radius as small as we can.
+
+And, oh, where'd it go? Well it's still there, it's just become a black hole.
+
+Pretty spooky, but now, let's look at the rest of the Solar System.
+
+Alright, zooming out and-
+
+huh.
+
+Nothing's... changed. I mean something's changed.
+
+It's colder and darker, but nothing's flying off into space or getting sucked in.
+
+You see,  by shrinking the Sun, we didn't change the direction of down for the planets.
+
+They're always being pulled by gravity towards its middle and making it smaller didn't move where the middle was.
+
+But also, the strength of that force pulling them to the middle of the sun stayed the same.
+
+That gives us a clue as to what down is.
+
+The clue is the other thing we didn't change: mass.
+
+Mass is a measure of how hard it is to accelerate something; to change its motion.
+
+Now right now, these two balls have zero motion relative to me.
+
+Slapping around this hollow plastic ball
+
+is pretty easy, but doing the same to this solid steel ball
+
+is a lot harder.
+
+Now gravity and weight have nothing to do with this.
+
+Gravity acts downward, not against my horizontal slapping.
+
+Of course, gravity does contribute to friction, but friction works against me when I start moving the ball,
+
+but works with me when I stop the ball.
+
+And the steel ball is harder to stop than the plastic ball.
+
+The difference is mass. The steel ball is more massive
+
+It's more resistant to having its motion changed.
+
+Mass is an intrinsic property; it does not depend on what's around or change from place to place.
+
+It can sometimes be thought of as the amount of matter something has.
+
+Your mass is the same regardless of where you are.
+
+On the moon, on earth, in the middle of intergalactic space floating around.
+
+But all of this said, mass does seem to care about what's around.
+
+Mass loves company.
+
+Things with mass and/or energy are attracted together by a force that we call gravity.
+
+The feeling of gravity is just you and the earth being attracted to one another.
+
+Now every portion of an object with mass attracts other portions towards it.
+
+The average of all this pulling is an attraction between centers of mass.
+
+Giant things like Earth exert an obvious pull, but everything does. Even a baseball.
+
+These two baseballs are attracted together by their own gravities.
+
+Except their masses are so small, the force is minuscule, and it can't overcome friction or push air out of the way.
+
+They're never gonna come together
+
+But if you put two baseballs one meter apart in the middle of empty space where no other forces could act on them
+
+They would literally fall together and collide.
+
+It would take three days to happen, but it would.
+
+Isaac Newton found that the strength of the force bringing two things together is equal to the product of their masses
+
+Divided by the distance between their centers of mass squared times big G, the gravitational constant.
+
+If you make one of two objects more massive, or move them closer together, the force will be
+
+stronger and this force of attraction is what we call weight
+
+So mass is intrinsic, whereas weight depends on what's around.
+
+Now, a weird thing happens when you weigh yourself on most scales.
+
+Weight is a force, but scales display pounds or kilograms,
+
+which are units of mass.
+
+What's going on is that a scale is
+
+activated by a force.
+
+Any force.
+
+It doesn't have to be caused by gravity. The scale then displays what amount of mass
+
+near the surface of the earth would be attracted to the earth with the force it's detecting.
+
+Now since scales tend to be used on the surface of the earth, by people, on which the only force acting is gravity,
+
+they tend to not be very far off. But they can be easily tricked, and they further lead to the confusion between mass and weight.
+
+Notice that weight is mutual. You are pulled down by earth with the same force that you pull up on earth.
+
+According to a scale, I weigh
+
+180 pounds on earth..
+
+And the earth weighs 180 pounds on me.
+
+But because the Earth's mass is so much greater than my own, and
+
+because the more massive something is, the more it resists being moved, our
+
+equal and opposite weight forces accelerate me a lot more than the earth.
+
+If you drop a pencil from a height of 6 feet, the pencil doesn't just fall to the earth. More precisely,
+
+they both come together.
+
+They're attracted to each other by equal forces
+
+but the same force moves the pencil a
+
+lot more than the earth. When you let go of the pencil, the earth is literally pulled up
+
+to the pencil by the pencil's own gravity, a distance equal to about 9 trillionths
+
+the width of a proton. That
+
+same force moves the pencil the remaining distance, which is still pretty much six feet.
+
+At the height of the International Space Station's orbit, you and earth are attracted about
+
+10% less than when you're on the surface; about eight point eight times your mass, but not zero.
+
+For this reason, weightless astronauts in zero gravity are neither weightless, nor in zero gravity.
+
+Their weight force fails to bring them and earth together, because they move horizontally
+
+so quickly that they fall just as fast as Earth's surface curves away from them.
+
+And even though they're experiencing 90 percent of the gravity you and I are feeling right now,
+
+(That's why they don't just fly away)
+
+There are no forces, called g-forces, to resist their weight, since everything around them is falling too.
+
+It's resistance to your weight force, stress,
+
+deformation, that is needed for you to feel weight. What astronauts in orbit actually lack is
+
+apparent weight.
+
+Likewise, a helium balloon has weight.
+
+I mean, it's made out of matter it clearly has mass, so it's attracted to the earth.
+
+Let's try to measure its weight force.
+
+Okay, it has negative apparent weight.
+
+That's because its attraction to the earth is weaker than the buoyant forces from the air around it that push it up.
+
+Now, while it moves up,
+
+It pushes air molecules down, but they transfer that force widely. Not just directly down onto the scale.
+
+Buoyant forces are caused by the fact that whenever you are immersed in a fluid like water or air,
+
+molecules lower down are at greater pressure.
+
+They're being pressed by the weight of all the molecules
+
+above them and are closer to earth, so they're pulled to it with a stronger force. Now having greater pressure
+
+means they pack a bigger punch when they collide with things.
+
+So,
+
+horizontally, those collisions cancel out,
+
+but vertically, the stronger collisions from below win out, providing lift, a buoyant force.
+
+This even happens on your own body. Across its surface area air lifts you with the force of about one
+
+Newton, which is equal to the weight force of an apple. So if you weighed yourself in a vacuum you would weigh about
+
+this much more.
+
+But that's not all Earth's spin causes it to bulge at the equator so the closer you are to it
+
+The further you are from Earth's center of mass and the less your actual gravitational weight will be down is
+
+Always changing, I mean
+
+where is Earth's center of mass? It would always be the same as Earth's geometric middle if Earth's
+
+composition was uniform, but earth contains pockets of massive rock at different depths water mountains
+
+It's got moving changing insides and air and seasonal ice and though they're far away
+
+Gravity extends forever from everything so the moon the Sun the planets all of them pull on you
+
+negligibly,
+
+But truly. You weigh about a millionth of your weight less when the moon is directly above you
+
+This chunky shifting balance of material on earth and ever where else in the universe means that down is
+
+always
+
+changing on top of that Earth's spin
+
+Skews what you consider the direction of down away from its center of mass because the push you get from Earth's spin
+
+Seems to slightly lift you reducing your apparent weight and bending down
+
+towards the equator
+
+The net result is an apparent weight reduction at the equator of about half of a percent if a scale guesses your mass must be
+
+200 pounds at the poles it'll guess that you're
+
+199 at the equator. The 9.8
+
+Multiplier used so often in physics is calculated based on how these factors affect someone at 45 degrees latitude
+
+all of these influences on the direction of down result in a total vertical deflection.
+
+That's only ever at most a few arc seconds anywhere on earth
+
+That's not enough to be felt, but changes in direction and strength can be used to study the shape of the seafloor
+
+Determine what's under you or even help you discover ancient buried rooms?
+
+Point is all of our downs aren't a bunch of radially symmetric lines
+
+Down is an uncombed mess.
+
+Now since solids don't flow they can have shapes that don't pay much mind to this but water can
+
+Flow so ignoring influences like wind and tides the surface of oceans and lakes and puddles is always perpendicular
+
+To down if water could pass through land, or if earth were submerged in water
+
+Gravity would be the same everywhere along its bumpy surface
+
+Such a surface is called a geoid and can be drawn at any altitude
+
+If you wanted to build a table that completely enclosed the earth it would have to have rolling undulation
+
+Z' nearly 100 meters at some points in order to be
+
+Level so that a ball placed anywhere on it wouldn't roll
+
+Here is Earth's G. I exaggerated a thousand times
+
+You'd weigh about a hundredth of a percent less a few grams here?
+
+Then you would say here where gravity is a bit stronger point is the strength and direction
+
+Down is variable by location and changes over time
+
+So down is a fluctuating vector easy enough except?
+
+Why should matter attract matter in the first place?
+
+Isaac Newton was able to describe attraction, but not explain it
+
+humanity got closer however when Albert Einstein introduced his general theory of relativity
+
+Einstein thought a lot about the fact that everything falls to the ground
+
+At the same rate no matter
+
+How massive something is when dropped it will accelerate towards the earth down gaining about 9.8
+
+Meters per second for every second that it falls. That means that a hammer
+
+That's quite massive, and a not so massive feather when dropped from the same height will hit the ground at the same time
+
+Okay, what just happened...
+
+was an "air"ror.
+
+awkward laugh
+
+In order to fall through air a thing has to push air out of the way
+
+But if it has a large surface area and a low weight force it will have a lot of air to move
+
+But won't be able to move that air very quickly. In a vacuum, things do fall at the same rate regardless
+
+Of mass. This was famously demonstrated by Apollo 15 commander David Scott on the moon
+
+And I'll, uh, drop the two of them here and hopefully, they'll hit the ground at the same time.
+
+How 'bout that?
+
+That's weird right? I mean if a more massive object is pulled with a greater force
+
+Shouldn't it fall faster? Well Newton's explanation was simple:
+
+Larger masses are attracted with greater forces
+
+But will also require more force to be accelerated the same as a less massive thing
+
+Something a hundred times more massive might require a hundred times the force, but it will be pulled by gravity
+
+100 times more so everything falls to earth at the same rate
+
+What a fun coincidence right?
+
+Maybe not
+
+Einstein realized that there's another way for things to appear to fall together
+
+of their masses
+
+Imagine a feather and a hammer floating in space in a room if the room is suddenly accelerated up at 9.8
+
+M/s^2 the feather and the hammer will hit the floor at the same time
+
+furthermore whether it's the room coming up to meet them or gravity being suddenly switched on
+
+Neither object will feel any force pushing them
+
+There's no way to tell which of these happen. This is Einstein's famous
+
+equivalence principle
+
+He once admitted that his greatest thought ever was that of a man
+
+falling off of a roof
+
+While falling the man would not feel any forces on him even though. He's speeding up
+
+freefall is
+
+Indistinguishable from floating alone in space from having no forces on you from not being moved
+
+What if gravity isn't a force at all what if things fall not because they're being pushed or pulled
+
+But because they're not being pushed or pull
+
+To see how this could be we need to talk about straight lines
+
+What I have here is a retractable ID badge holder
+
+This is a great way to test for straight paths
+
+Because the string is always kept taut the card
+
+I have behind has two lines drawn on it
+
+And if while I pull the string out it always stays between those two lines
+
+I will know that I never turned
+
+While I pulled it because any turn will translate into a different angle between the lines on the card and the string
+
+Now if I put two of these on a flat table and pull them out, always ensuring that they go straight ahead
+
+They will never meet. They will be forever parallel, but now let's put them on a sphere a curved surface
+
+Again, I pull both strings forward making sure that they always are pulled out straight. No turning
+
+Wait they came together
+
+Well, they didn't turn look
+
+Maybe there's some kind of weird force that pulled my hands together and just like gravity. I didn't feel it, but it happened
+
+No
+
+What happened was not the result of a force it was just a natural result of?
+
+Curvature you might be thinking wait a second are those really straight lines. I mean they don't look that straight to me
+
+Also, what if they've just moved along latitude lines then they've never come together and those look pretty darn straight
+
+But they're not a straight line never turns and although latitude lines look straight at first glance
+
+following one requires
+
+Turning to find straight line paths on surfaces whether they're flat like this or curved
+
+I love the ribbon test. Now you can use an actual ribbon
+
+But I have found that a strip of paper works. Even better. Let's take a look at this path right here
+
+It's straight at first, but then it curves now if two people are traveling along this curve
+
+And they want to stay together the person on the inside will have to cover a shorter distance than the person on the outside
+
+Since both sides of this strip of paper cannot change their lengths
+
+They'll help us find a straight path if the strip of paper can lay flat
+
+We'll know that we have found a straight line and as you can see
+
+The strip can lay flat and follow the straight part of this path
+
+But when it comes to the curve in order to follow the path now
+
+The strip well it has too much material on the inside and that material
+
+Bunches up and leaves the plane therefore we know that this part of the path is not straight
+
+Let's use the ribbon test to find straight lines on the surface of a cone
+
+Well from the looks of it aligned directly from the base to the tip seems like it would be straight and sure enough
+
+Yeah, the ribbon lays flat on that path, but what about a ring around the cone?
+
+Nope doesn't work shorter distances around nearer the tip of the cone mean that there's too much ribbon up at the top
+
+So doesn't lay flat
+
+Let's see what else is there though besides this well if I start here and just allow the ribbon
+
+to lay flat
+
+Huh I get a little curvy looking shape like this
+
+I say curvy looking because while to someone say at the base this path might seem to go up
+
+Slow down change direction and then fall down faster and faster since a ribbon on such a path is flat
+
+It's actually for inhabitants on the cones surface
+
+Perfectly straight if we trace the ribbons path on to the cone
+
+We can see this clearly because a cone can be flattened a straight line on a curved surface is called a geodesic
+
+Here is a geodesic on a sphere the Equator is one
+
+Here's another a line of latitude is not a geodesic
+
+It's not a straight line to see why let's try to follow it with the ribbon you
+
+Know what I have to keep kind of lifting it
+
+Yeah, see distances around the sphere becomes shorter as we go up
+
+So there's too much material on the ribbon up here
+
+and it leaves the surface this path contains turns and in order to turn a
+
+Force has to act on you if no forces
+
+Did this is the path you would take notice that the ribbon begins moving due east, but then falls
+
+south
+
+Falls
+
+Einstein realized that curvature could cause things to be seemingly attracted to one another
+
+Without needing to invent the existence of forces like gravity
+
+but attraction only happens if things move along the surface if they stay still they
+
+Well, they don't come together so for something at rest. How does falling begin?
+
+I mean the thing has to move in this direction, but it's at rest right well
+
+Yes
+
+But it's only at rest in space and that's not the whole story up down
+
+Forward backward and left-right are all you need to describe where an event occur but a complete description will also need to describe
+
+When together these four dimensions form the setting in which everything in our universe happens
+
+Space-time
+
+Since we can talk about a falling pencil using just one spatial dimension up and down we can use a piece of paper to model
+
+Space-time for it. Okay, so we've got up and down, but we have to add another
+
+direction the pencil moves in
+
+time
+
+Now if no forces act on the pencil it won't move through space
+
+It will only get older and as you can see if all it does is get older
+
+It won't fall if space-time was flat when I let go of the pencil
+
+it wouldn't go anywhere, but now let's allow the earth which is massive to manipulate space-time into say a
+
+cone
+
+Now with no forces acting on it every part of the pencil follows a straight line
+
+But on a cone as we saw earlier such a path will look like this it will fall
+
+This is because distances around the cone are shorter higher up
+
+Time runs faster further from a massive object, but to go straight
+
+Not turn every part of the pencil must cover an equal distance in space-time
+
+like this
+
+Only when the pencil hits the earth does the repulsion of their mutual electrons provide a force pushing the pencil off a geodesic
+
+For the earth time is a series of slices from this evolution the pencils force-free
+
+Geodesic is why it falls not a push or pull just the pencils natural tendency to follow a straight line
+
+Until something acts on it now. We only used one dimension of space and one of time because
+
+Visualizing our universes three of space and one of time would take us beyond the limits of what could be shown on paper or screens
+
+but math
+
+Can take us there
+
+General relativity allows us to calculate how much mass and energy
+
+Curved space-time and has been used to explain things that Newton's older theory of falling as the result of
+
+Forces couldn't like anomalies in the orbit of mercury which orbits nearest the Sun and is therefore most affected by the sun's grip on
+
+space-time many other experiments have confirmed general relativity's picture of the universe fitting the conclusion that
+
+There is no
+
+Gravity there's just
+
+Space-time its curvature and a us in it. As John Wheeler famously put it
+
+Space-time grips mass telling it how to move mass grips space-time telling it how to curve?
+
+Relative to the earth we don't move very fast even jet airplanes move negligibly close to the speed of light
+
+So relative to earth we move almost
+
+Exclusively through time as such we are more affected by the way time is curved by mass
+
+Than how space is curved?
+
+This has led many to claim that for the most part you feel as though you're being pushed into the ground
+
+Not because of a force called gravity
+
+But because time is moving faster for your head than for your feet down is
+
+Relative and always changing, but it exists because of and is always in the direction of slower time
+
+Bertrand Russell called this the law of cosmic laziness
+
+Everything is naturally steered towards where time is slowest we call this falling
+
+going down
+
+So you don't have to keep anything on the down-low
+
+time will take care of that for you and
+
+and as always
+
+Thanks for watching
+
+Remember that you can support Vsauce and Alzheimer's research by subscribing to the Vsauce
+
+curiosity box the current one comes with a code to get a free copy of universe sandbox 2
+
+Which is amazing and a whole host of other science toys and tools picked by myself Jake and Kevin
+
+I love it all so I hope to see you at brain candy live. We are coming to many many cities very soon
+
+Hopefully one near you by going to the show you can see Adam
+
+And I doing things that will you may not have seen us do before we also explore the science and common
+
+misconceptions behind all things
+
+Err. Maybe have said too much. Maybe not I hope to see you there and as always thanks for watching
+
